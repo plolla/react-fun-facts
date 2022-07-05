@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Preview of React Fun Facts:
+![React Fun Facts](https://user-images.githubusercontent.com/19865455/177241561-54d85368-37a1-4ba4-b983-442da85e95e7.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
